@@ -1,0 +1,14 @@
+#titreDePage {
+  font-weight: bold;
+  margin-top: 100px;
+}
+p {
+  text-align: justify;
+  background-color: lightgray;
+}
+body {
+  background-color: grey;
+}
+form {
+  margin-top: 100px;
+}
